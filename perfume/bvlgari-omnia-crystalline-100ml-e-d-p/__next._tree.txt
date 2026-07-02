@@ -1,8 +1,9 @@
-:HL["/_next/static/chunks/420uwmttlshu8.css","style"]
+:HL["/_next/static/chunks/2yur98uk5wcnb.css","style"]
 :HL["/_next/static/media/1c9ef42b327f16c7-s.p.0jgv4ivu1938h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/52b5d5098cb87ddd-s.p.3r2y_bth_sjsm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/86c8c58929c52757-s.p.3dq6enaul-s3b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/910852303c6b2343-s.p.1wvhz6ut8au_x.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/da0c36c2f20008af-s.p.1o88h9hhck-f8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"perfume","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bvlgari-omnia-crystalline-100ml-e-d-p","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LuVZBYbNOaw0q6Gsr89Ny"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"perfume","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"bvlgari-omnia-crystalline-100ml-e-d-p","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"bOVzlwjjrAXUqBB5JVXM_"}
