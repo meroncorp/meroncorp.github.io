@@ -6,4 +6,4 @@
 :HL["/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/da0c36c2f20008af-s.p.1o88h9hhck-f8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"maison","param":null,"prefetchHints":0,"slots":{"children":{"name":"brand","param":{"type":"d","key":"frederic-malle","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"bOVzlwjjrAXUqBB5JVXM_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"maison","param":null,"prefetchHints":0,"slots":{"children":{"name":"brand","param":{"type":"d","key":"frederic-malle","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jeA2v0LJVyrsKDCjm2UIg"}
